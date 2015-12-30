@@ -1,2 +1,5 @@
 # openfoam_python
-Modules for manipulating OpenFOAM runs and other utilities.
+
+Some Python utilities I found useful in manipulating OpenFOAM cases 
+in automated simulation procedures.
+
